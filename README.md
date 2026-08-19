@@ -1,20 +1,86 @@
+<h1 align="center">Hey there, I'm Ramyanth 👋</h1>
+<h3 align="center">Game Designer • Level Designer • Game Tester</h3>
 
-Hi,
-I'm Ramyanth Kishore 👋<br><br>### 🎮 Game Designer | Level Designer | Game Tester<br><br>I'm a Game Designer focused on Level Design, Gameplay Systems, Player Experience, and Game Testing.<br><br>I enjoy creating gameplay spaces that naturally guide players while balancing **challenge, exploration, pacing, and progression**. My design process combines level blockouts, gameplay iteration, playtesting, player feedback, and documentation to turn ideas into clear and playable experiences.<br><br>---<br><br>## 🎯 What I Do<br><br>* 🎮 Game Design<br>* 🗺️ Level Design & Blockout Prototyping<br>* 🕹️ Gameplay Mechanics Design<br>* 🧪 Game Testing & QA<br>* 🔍 Playtesting & Player Experience Analysis<br>* 🐞 Bug Reporting & Documentation<br>* ⚖️ Gameplay Balancing<br>* 📑 Game Design Documents (GDDs)<br>* 🎯 Objectives, Encounters & Player Flow<br>* 🤝 Cross-Disciplinary Collaboration<br><br>---<br><br>## 🛠️ Tools & Technologies<br><br>### Game Engines<br><br>* Unity<br>* Unreal Engine<br><br>### Design<br><br>* Level Design<br>* Game Design<br>* Gameplay Prototyping<br>* Gameplay Progression<br>* Player Flow<br>* Gameplay Balancing<br>* UX Wireframing<br><br>### Testing & QA<br><br>* Playtesting<br>* Gameplay Testing<br>* Bug Reproduction<br>* Bug Reporting<br>* Player Experience Evaluation<br><br>---<br><br>## 💼 Professional Experience<br><br>### Game Designer & Developer — Pivot Animation<br><br>**October 2020 – January 2024**<br><br>Worked across the complete game-development process, from early concepts and documentation to level design, gameplay implementation, testing, and iteration.<br><br>Key areas of work included:<br><br>* Designed and developed end-to-end game prototypes in Unity.<br>* Created Game Design Documents covering mechanics, level objectives, gameplay systems, and player flow.<br>* Designed level layouts using blockout prototyping techniques.<br>* Planned gameplay progression and introduced challenges progressively throughout levels.<br>* Built and iterated on 2D and 3D gameplay mechanics.<br>* Used internal playtesting feedback to improve gameplay feel, pacing, and difficulty.<br>* Collaborated with animation and art teams to align visual presentation with gameplay goals.<br><br>---<br><br>### Game Designer — Go Live Games<br><br>**July 2019 – December 2019**<br><br>Worked on early-stage design and player-experience development for mobile games.<br><br>Key areas of work included:<br><br>* Created wireframes and early UX flows for mobile game features.<br>* Converted design briefs into structured visual concepts.<br>* Analysed competitor games and documented gameplay and UX patterns.<br>* Contributed research that supported design decisions for a live mobile title.<br>* Gained experience with professional game-development workflows from design brief through implementation.<br><br>---<br><br>## 🎓 Education<br><br>### Teesside University<br><br>**Master of Arts — Game Design & Interactive Media Design**<br>September 2024 – May 2026<br><br>### Adikavi Nannaya University<br><br>**B.Sc. Animation — Gaming**<br>2016 – 2019<br><br>---<br><br>## 📌 What You'll Find on My GitHub<br><br>I'm using this GitHub to document and showcase my work in:<br><br>* Level design studies<br>* Unity gameplay prototypes<br>* Unreal Engine experiments<br>* Game mechanics prototypes<br>* Level blockouts<br>* Game Design Documents<br>* Gameplay analysis<br>* Game testing and QA case studies<br>* Player experience studies<br><br>Each project repository will focus not only on the final result, but also on the **design problem, design decisions, iteration process, testing feedback, and lessons learned**.<br><br>---<br><br>## 🚀 Current Focus<br><br>I'm currently strengthening my portfolio through practical projects in:<br><br>Game Design • Level Design • Unity • Unreal Engine • Gameplay Prototyping • Game Testing • Player Experience**<br><br>I'm interested in opportunities where I can contribute to creating engaging gameplay experiences while continuing to develop as part of a professional game-development team.<br><br>---<br><br>## 📫 Connect With Me<br><br>🌐 Portfolio: ramyanthkishore.com<br>💼 LinkedIn:[www.linkedin.com/in/ramyanth-kishore] (http://www.linkedin.com/in/ramyanth-kishore)<br>📧 Email: [ramyanth1236@gmail.com] (mailto:ramyanth1236@gmail.com)<br><br>---<br><br>> **Good game design is not just about creating mechanics — it's about understanding what the player experiences from one moment to the next.**<br>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Designing+levels+that+guide+players+naturally;Balancing+challenge%2C+exploration+%26+progression;Building+in+Unity+%26+Unreal+Engine;Turning+playtest+feedback+into+better+gameplay" alt="Typing SVG" />
+</p>
 
-
-🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Ram Yanth) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_ramyanth?igsh=dDAyaTR5M2V5Z2s3) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/akhil-kota-565165364) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ramyanth1236@gmail.com) 
-
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Adobe Acrobat Reader](https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Adobe Fonts](https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Adobe InDesign](https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![Epic Games](https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Ramyanth&theme=dark&hide_border=true&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Ramyanth&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Ramyanth&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://www.linkedin.com/in/ramyanthkishore">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://ramyanthkishore.com/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="mailto:ramyanth1236@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=Ramyanth&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 🎮 About Me
+
+I'm a **Mid-Level Game Designer** specializing in **Level Design** and **Game Testing**. I focus on building levels that guide players naturally, support enjoyable gameplay, and strike the right balance of **challenge, exploration, and progression**.
+
+My work spans planning layouts, shaping gameplay flow, placing objectives and encounters, testing player navigation, and iterating on levels based on real playtesting feedback. I also bring solid QA experience — spotting gameplay issues, reproducing bugs, writing clear bug reports, and reviewing the overall player experience.
+
+- 🎯 Currently studying **MA Game Design** at Teesside University *(2024 – 2026)*
+- 🛠️ Currently building projects in **Unity** & exploring **Unreal Engine**
+- 🌱 Open to opportunities as a **Game Designer**, **Level Designer**, or **Game Tester**
+- 📍 Based in Middlesbrough, England
+- 💬 Ask me about level design, game design documents, or playtesting workflows
+
+---
+
+### 🧰 Core Skills
+
+**Design & Tools**
+
+<p>
+  <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Unreal%20Engine-0E1128?style=flat-square&logo=unrealengine&logoColor=white" />
+  <img src="https://img.shields.io/badge/Level%20Design-6C5CE7?style=flat-square" />
+  <img src="https://img.shields.io/badge/Game%20Design-FF6B6B?style=flat-square" />
+  <img src="https://img.shields.io/badge/QA%20%26%20Testing-00B894?style=flat-square" />
+  <img src="https://img.shields.io/badge/Playtesting-FDCB6E?style=flat-square" />
+</p>
+
+**What I bring to a team**
+
+| Area | Details |
+|---|---|
+| 🗺️ Level Design | Block-out prototyping, layout planning, pacing & progression curves |
+| 📄 Documentation | Game Design Documents (GDDs), clear bug reports |
+| 🧪 QA & Testing | Bug reproduction, mechanics testing, player experience reviews |
+| 🔁 Iteration | Playtest feedback loops, gameplay & difficulty balancing |
+| 🤝 Collaboration | Working with art/animation teams to align visuals with gameplay intent |
+
+---
+
+### 💼 Experience Snapshot
+
+**Game Designer & Developer** — *Pivot Animation* · Oct 2020 – Jan 2024
+Led full-cycle prototyping in Unity — from concept docs to level design, mechanics, and playtesting — shipping functional builds across multiple projects.
+
+**Game Designer** — *Go Live Games* · Jul 2019 – Dec 2019
+Produced wireframes and UX flows for mobile features, and researched competitor games to inform live-title design decisions.
+
+---
+
+### 🎓 Education
+
+- **Teesside University** — MA Game Design, Game & Interactive Media Design *(2024 – 2026)*
+- **Adikavi Nannaya University** — BSc Animation & Gaming *(2016 – 2019)*
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/ramyanthkishore" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://ramyanthkishore.com/" target="_blank"><img src="https://img.shields.io/badge/-Portfolio-262626?style=flat-square&logo=About.me&logoColor=white"/></a>
+  <a href="mailto:ramyanth1236@gmail.com"><img src="https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white"/></a>
+</p>
+
+<p align="center"><i>"Designing levels that make players want to explore just a little further."</i></p>
